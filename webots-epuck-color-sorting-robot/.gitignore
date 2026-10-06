@@ -1,0 +1,25 @@
+# Webots generated files
+controllers/*/*.exe
+controllers/*/*.o
+controllers/*/*.obj
+controllers/*/*.class
+controllers/*/*.jar
+
+# Build directories
+build/
+cmake-build-*/
+
+# Logs
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
