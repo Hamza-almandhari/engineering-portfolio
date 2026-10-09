@@ -2,6 +2,8 @@
 
 Mechatronics Engineering student at the University of Wollongong in Dubai, with project work in robotics, simulation, mechanical design, manufacturing, and VTOL aircraft systems.
 
+**Portfolio website:** [hamzaalmandhari.com](https://hamzaalmandhari.com)
+
 ## Projects
 
 | Project | Focus | Materials |
